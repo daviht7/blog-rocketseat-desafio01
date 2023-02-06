@@ -1,0 +1,105 @@
+{
+  "uid": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Sint irure in in sint tempor laboris ullamco est. Labore reprehenderit nulla tempor nostrud exercitation id culpa ipsum quis. Sint ea tempor mollit consectetur eiusmod officia adipisicing nostrud eiusmod ad elit."
+        }
+      }
+    ]
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Adipisicing ad ipsum sit. Laboris reprehenderit aliquip dolor laborum occaecat aute eiusmod et id magna ut sit est sit consequat."
+        }
+      }
+    ]
+  },
+  "subtitle": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Esse quis commodo consequat minim mollit sit deserunt pariatur tempor nostrud. Deserunt do reprehenderit veniam aliqua quis proident mollit adipisicing esse excepteur mollit. Ad aute eiusmod dolor sint."
+        }
+      }
+    ]
+  },
+  "author": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Incididunt sit dolor irure ipsum ipsum nostrud ad dolore ipsum Lorem nostrud. Ut labore incididunt irure irure veniam commodo enim est dolor in reprehenderit. Mollit irure ut nostrud incididunt officia cillum veniam proident culpa eu aliquip duis labore duis nulla."
+        }
+      }
+    ]
+  },
+  "banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+      "width": 3024,
+      "height": 3778
+    },
+    "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+    "width": 3024,
+    "height": 3778,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "group": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "heading",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Exercitation laboris et incididunt aliquip quis enim laborum duis."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "body",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Labore anim proident culpa velit quis mollit qui tempor. Exercitation consectetur laboris ex excepteur irure exercitation nostrud id quis. Deserunt ullamco est proident ut sit duis culpa est consectetur adipisicing reprehenderit esse fugiat Lorem."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}
